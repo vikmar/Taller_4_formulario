@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vikmar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_341692826b99bd9b7d06e39c4c32afd59f500851\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f00bc197f2c08faf8e1ace0bea09061a9d4f2c57">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_93751484bf6049420eaa78cec0bf822d1dd5a2c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_b44fd7313245d44b06efcdd2e27c0d93e340ef08\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5dca7e306c6ef023df02a8d36b0a3d81383c2961">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_109c0a8040f5d464e36efb0d74cc6275b128b7af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_68dde33dc178a26f0506329b21c1a236594ce66e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Vikmar\Documents\AndroidMVC- Formulario\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_12777c7ee37573c8d8e72fda56c99e75918ae93d\classes.dex" />
+    </item>
+
+</items>
